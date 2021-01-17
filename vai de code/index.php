@@ -1,237 +1,271 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <!-- Meta tags Obrigatórias -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<head>
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="TemplateMo">
+  <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="assets/images/favicon.ico" />
 
-    <!-- HTML5Shiv -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <![endif]-->
+  <title>Vai de Code</title>
 
-    <!-- Estilo customizado -->
-    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <title>Música para todos - Spotify</title>
-    <link rel="icon" href="imagens/favicon.png">
-  </head>
-  <body>
-    
-    <header><!-- inicio Cabecalho -->
-      <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-transparente">
+  <!-- Additional CSS Files -->
+  <link rel="stylesheet" href="assets/css/fontawesome.css">
+  <link rel="stylesheet" href="assets/css/code.css">
+  <link rel="stylesheet" href="assets/css/owl.css">
+
+</head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  <div id="preloader">
+    <div class="jumper">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+  </div>
+  <!-- ***** Preloader End ***** -->
+
+  <!-- Header -->
+
+
+  <header class="">
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.php">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">Sobre nós</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="services.php">Nossos Serviços</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.php">Fale Conosco</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Page Content -->
+  <!-- Banner Starts Here -->
+  <div class="main-banner header-text" id="top">
+    <div class="Modern-Slider">
+      <!-- Item -->
+      <div class="item item-1">
+        <div class="img-fill">
+          <div class="text-content">
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+            <br /> <br /> <br />
+
+            <a href="contact.html" class="filled-button">Comece Agora</a>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="services">
         <div class="container">
-          
-          <a href="index.html" class="navbar-brand">
-            <img src="imagens/spotify.svg" width="142">
-          </a>
-
-          <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-principal">
-            <i class="fas fa-bars text-white"></i>
-          </button>
-
-          <div class="collapse navbar-collapse" id="nav-principal">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                <a href="" class="nav-link">Premium</a>
-              </li>
-              <li class="nav-item">
-                <a href="" class="nav-link">Ajuda</a>
-              </li>
-              <li class="nav-item">
-                <a href="" class="nav-link">Baixar</a>
-              </li>
-
-              <li class="nav-item divisor"></li>
-
-              <li class="nav-item">
-                <a href="" class="nav-link">Inscrever-se</a>
-              </li>
-              <li class="nav-item">
-                <a href="" class="nav-link">Entrar</a>
-              </li>
-            </ul>
-          </div>
-
-        </div>
-      </nav>
-    </header><!--/fim Cabecalho -->
-
-    <section id="home" class="d-flex"><!--home -->
-      <div class="container align-self-center"><!--container -->
-        <div class="row"><!--row -->
-          <div class="col-md-12 capa">
-            
-            <div id="carousel-spotify" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner"><!--Inner -->
-                
-                <div class="carousel-item active">
-                  <h1>Música para todos</h1>
-                  <a href="" class="btn btn-lg btn-custom btn-roxo">
-                    Aproveite o Spotify Free
-                  </a>
-
-                  <a href="" class="btn btn-lg btn-custom btn-branco">
-                    Obter Spotify Premium
-                  </a>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="section-heading">
+                <h2>Financial <em>Services</em></h2>
+                <span>Aliquam id urna imperdiet libero mollis hendrerit</span>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-item">
+                <img src="assets/images/service_01.jpg" alt="">
+                <div class="down-content">
+                  <h4>Digital Currency</h4>
+                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
+                  <a href="" class="filled-button">Read More</a>
                 </div>
-
-                <div class="carousel-item">
-                  <h1>As melhores rádios</h1>
-                  <a href="" class="btn btn-lg btn-custom btn-branco">
-                    <i class="fas fa-music"></i> Ouça agora
-                  </a>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="service-item">
+                <img src="assets/images/service_02.jpg" alt="">
+                <div class="down-content">
+                  <h4>Market Analysis</h4>
+                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
+                  <a href="" class="filled-button">Read More</a>
                 </div>
-
-              </div><!--/Inner -->
-
-              <!-- Controles -->
-              <a href="#carousel-spotify" class="carousel-control-prev" data-slide="prev">
-                <i class="fas fa-angle-left fa-3x"></i>
-              </a>
-
-              <a href="#carousel-spotify" class="carousel-control-next" data-slide="next">
-                <i class="fas fa-angle-right fa-3x"></i>
-              </a>
-
-            </div>
-
-          </div>
-        </div><!--/row -->
-      </div><!--/container -->
-    </section><!--/home -->
-
-    <section id="servicos" class="caixa">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="row albuns">
-              <div class="col-md-6">
-                <img src="imagens/img1.jpg" class="img-fluid">
-              </div>
-              <div class="col-md-6">
-                <img src="imagens/img2.jpg" class="img-fluid">
               </div>
             </div>
-            <div class="row albuns">
-              <div class="col-md-6">
-                <img src="imagens/img3.jpg" class="img-fluid">
-              </div>
-              <div class="col-md-6">
-                <img src="imagens/img4.jpg" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            
-            <h2>O que o Spotify tem?</h2>
-
-            <h3>Músicas</h3>
-            <p>O Spotify tem milhões de músicas. Escute seus sons favoritos, descubra novas músicas e reúna seus favoritos em um só lugar.</p>
-
-            <h3>Playlists</h3>
-            <p>No Spotify você encontra uma playlist para cada momento. Todas feitas por fanáticos e especialistas da música.</p>
-
-            <h3>Novos lançamentos</h3>
-            <p>Escute os novos lançamentos de singles e álbuns da semana e veja o que está bombando no Top 50.</p>
-
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <section id="recursos" class="caixa">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-
-            <h2>Fácil</h2>
-            <h3>Buscar</h3>
-            <p>Já sabe o que quer escutar? É só procurar e apertar o play.
-            </p>
-
-            <h3>Navegar</h3>
-            <p>Veja os novos lançamentos, o que está bombando nas paradas e as melhores playlists para o seu momento.
-            </p>
-
-            <h3>Descobrir</h3>
-            <p>Curta músicas novas toda segunda-feira com uma playlist personalizada pra você. Ou relaxe e curta uma das rádios.
-            </p>
-
-          </div>
-          <div class="col-md-8">
-            <div class="row rotacionar">
-              <div class="col-md-6">
-                <img src="imagens/iphone1.png" class="img-fluid">
-              </div>
-              <div class="col-md-6">
-                <img src="imagens/iphone2.png" class="img-fluid">
+            <div class="col-md-4">
+              <div class="service-item">
+                <img src="assets/images/service_03.jpg" alt="">
+                <div class="down-content">
+                  <h4>Historical Data</h4>
+                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
+                  <a href="" class="filled-button">Read More</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
 
+
+
+      <div class="more-info">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="more-info-content">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="left-image">
+                      <img src="assets/images/more-info.jpg" alt="">
+                    </div>
+                  </div>
+                  <div class="col-md-6 align-self-center">
+                    <div class="right-content">
+                      <span>Who we are</span>
+                      <h2>Get to know about <em>our company</em></h2>
+                      <p>Curabitur pulvinar sem a leo tempus facilisis. Sed non sagittis neque. Nulla conse quat tellus nibh, id molestie felis sagittis ut. Nam ullamcorper tempus ipsum in cursus<br><br>Praes end at dictum metus. Morbi id hendrerit lectus, nec dapibus ex. Etiam ipsum quam, luctus eu egestas eget, tincidunt</p>
+                      <a href="#" class="filled-button">Read More</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+    </div>
+
+
+    <!-- Footer Starts Here -->
     <footer>
       <div class="container">
         <div class="row">
-          <div class="col-md-2">
-            <img src="imagens/spotify.svg" width="142">
-          </div>
-          <div class="col-md-2">
-            <h4>company</h4>
-            <ul class="navbar-nav">
-              <li><a href="">Sobre</a></li>
-              <li><a href="">Empregos</a></li>
-              <li><a href="">Imprensa</a></li>
-              <li><a href="">Novidades</a></li>
+          <div class="col-md-3 footer-item">
+            <h4>Finance Business</h4>
+            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <ul class="social-icons">
+              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="#"><i class="fa fa-behance"></i></a></li>
             </ul>
           </div>
-          <div class="col-md-2">
-            <h4>comunidades</h4>
-            <ul class="navbar-nav">
-              <li><a href="">Artistas</a></li>
-              <li><a href="">Desenvolvedores</a></li>
-              <li><a href="">Marcas</a></li>
+          <div class="col-md-3 footer-item">
+            <h4>Useful Links</h4>
+            <ul class="menu-list">
+              <li><a href="#">Vivamus ut tellus mi</a></li>
+              <li><a href="#">Nulla nec cursus elit</a></li>
+              <li><a href="#">Vulputate sed nec</a></li>
+              <li><a href="#">Cursus augue hasellus</a></li>
+              <li><a href="#">Lacinia ac sapien</a></li>
             </ul>
           </div>
-          <div class="col-md-2">
-            <h4>links uteis</h4>
-            <ul class="navbar-nav">
-              <li><a href="">Ajuda</a></li>
-              <li><a href="">Presentes</a></li>
-              <li><a href="">Player da web</a></li>
+          <div class="col-md-3 footer-item">
+            <h4>Additional Pages</h4>
+            <ul class="menu-list">
+              <li><a href="#">About Us</a></li>
+              <li><a href="#">How We Work</a></li>
+              <li><a href="#">Quick Support</a></li>
+              <li><a href="#">Contact Us</a></li>
+              <li><a href="#">Privacy Policy</a></li>
             </ul>
           </div>
-          <div class="col-md-4">
-            <ul>
-              <li>
-                <a href=""><img src="imagens/facebook.png"></a>
-              </li>
-              <li>
-                <a href=""><img src="imagens/twitter.png"></a>
-              </li>
-              <li>
-                <a href=""><img src="imagens/instagram.png"></a>
-              </li>
-            </ul>
+          <div class="col-md-3 footer-item last-item">
+            <h4>Contact Us</h4>
+            <div class="contact-form">
+              <form id="contact footer-contact" action="" method="post">
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <fieldset>
+                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <fieldset>
+                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                    </fieldset>
+                  </div>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
       </div>
     </footer>
 
-    <!-- JavaScript (Opcional) -->
-    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  </body>
+    <div class="sub-footer">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+    <script language="text/Javascript">
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t) { //declaring the array outside of the
+        if (!cleared[t.id]) { // function makes it static and global
+          cleared[t.id] = 1; // you could use true and false, but that's more typing
+          t.value = ''; // with more chance of typos
+          t.style.color = '#fff';
+        }
+      }
+    </script>
+
+</body>
+
 </html>
