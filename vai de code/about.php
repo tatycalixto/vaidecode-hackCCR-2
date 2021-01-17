@@ -73,10 +73,10 @@
   <div class="page-heading header-text">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <!--<div class="col-md-12">
           <h1>Sobre Nós</h1>
           <span>Já conectamos mais de 1000 jovens com Empresas de TI</span>
-        </div>
+        </div>-->
       </div>
     </div>
   </div>
@@ -89,17 +89,14 @@
             <div class="row">
               <div class="col-md-6 align-self-center">
                 <div class="right-content">
-                  <span>our solid background on finance</span>
-                  <h2>Get to know about <em>our company</em></h2>
+                  <span>Já conectamos mais de 1000 jovens com Empresas de TI</span>
+                  <h2>Sobre <em>Nós</em></h2>
                   <p>
-                    Fusce nec ultrices lectus. Duis nec scelerisque risus. Ut
-                    id tempor turpis, ac dignissim ipsum. Nulla ullamcorper,
-                    ipsum vel condimentum congue, mi odio vehicula tellus, sit
-                    amet malesuada justo sem. <br /><br />Pellentesque in
-                    sagittis lacus, vel auctor sem. Quisque eu quam eleifend,
-                    ullamcorper dui nec, luctus quam.
+                    O Vai de code tem ajudado muitos jovens com idade
+                    entre 18 e 24 anos a consseguirem ingressar no mercado
+                    de TI. Vamos conhecer nossos números?
                   </p>
-                  <a href="about.php" class="filled-button">Sobre Nós</a>
+                  <a href="services.php" class="filled-button">Saiba Mais</a>
                 </div>
               </div>
               <div class="col-md-6">
@@ -129,10 +126,7 @@
             <div class="down-content">
               <h4>Tatyane Calixto</h4>
               <span>Co-Founder e Developer</span>
-              <p>
-                In sem sem, dapibus non lacus auctor, ornare sollicitudin
-                lacus. Aliquam ipsum urna, semper quis.
-              </p>
+
             </div>
           </div>
         </div>
@@ -142,10 +136,7 @@
             <div class="down-content">
               <h4>Amanda Calixto</h4>
               <span>Co-Founder e UX Designer</span>
-              <p>
-                In sem sem, dapibus non lacus auctor, ornare sollicitudin
-                lacus. Aliquam ipsum urna, semper quis.
-              </p>
+
             </div>
           </div>
         </div>
@@ -154,11 +145,8 @@
             <img src="assets/images/team_03.jpg" alt="" />
             <div class="down-content">
               <h4>Jeane Melo</h4>
-              <span>Co-Founder and Chief of Science and Innovation (CSI) </span>
-              <p>
-                In sem sem, dapibus non lacus auctor, ornare sollicitudin
-                lacus. Aliquam ipsum urna, semper quis.
-              </p>
+              <span>Chief of Science and Innovation (CSI) </span>
+
             </div>
           </div>
         </div>
@@ -174,12 +162,10 @@
             <span>Mudanças em Números</span>
             <h2>Pessoas<em>Alcançadas </em></h2>
             <p>
-              Pellentesque ultrices at turpis in vestibulum. Aenean pretium
-              elit nec congue elementum. Nulla luctus laoreet porta. Maecenas
-              at nisi tempus, porta metus vitae, faucibus augue.
-              <br /><br />Fusce et venenatis ex. Quisque varius, velit quis
-              dictum sagittis, odio velit molestie nunc, ut posuere ante
-              tortor ut neque.
+              O Vai de code tem ajudado muitos jovens com idade
+              entre 18 e 24 anos a consseguirem ingressar no mercado
+              de TI. Vamos conhecer nossos números?
+
             </p>
             <a href="about.php" class="filled-button">Saiba Mais</a>
           </div>

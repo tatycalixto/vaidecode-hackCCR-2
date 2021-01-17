@@ -102,40 +102,58 @@
           <div class="row">
             <div class="col-md-12">
               <div class="section-heading">
-                <h2>Nossos <em>Cursos</em></h2>
-                <span>Aliquam id urna imperdiet libero mollis hendrerit</span>
+                <h2><em>Nossos Cursos</em></h2>
+
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
                 <img src="assets/images/service_01.jpg" alt="">
                 <div class="down-content">
-                  <h4>Digital Currency</h4>
-                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                  <a href="" class="filled-button">Read More</a>
+                  <h4>Vai de code: JavaScript </h4>
+                  <p>
+                    Curso ofertado pela empresa: CiberBit.
+                    <br />
+                    1 ano de curso (12H semanais), para jovens de 18 a 24 anos.
+                    Com 3 meses de curso você destrava uma entrevista para estágio remunerado.
+                    Ficou interessado(a)?</p>
+                  <a href="../vai de code/services.php" class="filled-button">Saiba Mais</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="assets/images/service_02.jpg" alt="">
+                <img src="assets/images/service_01.jpg" alt="">
                 <div class="down-content">
-                  <h4>Market Analysis</h4>
-                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                  <a href="" class="filled-button">Read More</a>
+                  <h4>Vai de code: Java </h4>
+                  <p>
+                    Curso ofertado pela empresa: CiberBit.
+                    <br />
+                    1 ano de curso (12H semanais), para jovens de 18 a 24 anos.
+                    Com 3 meses de curso você destrava uma entrevista para estágio remunerado.
+                    Ficou interessado(a)?</p>
+                  <a href="../vai de code/services.php" class="filled-button">Saiba Mais</a>
                 </div>
               </div>
+
             </div>
+
             <div class="col-md-4">
               <div class="service-item">
-                <img src="assets/images/service_03.jpg" alt="">
+                <img src="assets/images/service_01.jpg" alt="">
                 <div class="down-content">
-                  <h4>Historical Data</h4>
-                  <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                  <a href="" class="filled-button">Read More</a>
+                  <h4>Vai de code: Games </h4>
+                  <p>
+                    Curso ofertado pela empresa: CiberBit.
+                    <br />
+                    1 ano de curso (12H semanais), para jovens de 18 a 24 anos.
+                    Com 3 meses de curso você destrava uma entrevista para estágio remunerado.
+                    Ficou interessado(a)?</p>
+                  <a href="../vai de code/services.php" class="filled-button">Saiba Mais</a>
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>

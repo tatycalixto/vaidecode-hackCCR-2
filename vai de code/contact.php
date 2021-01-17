@@ -70,10 +70,10 @@
   <div class="page-heading header-text">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <!--<div class="col-md-12">
           <h1>Fale Conosco</h1>
           <span>Dúvidas, sugestões, críticas? Nós queremos te ouvir.</span>
-        </div>
+        </div>-->
       </div>
     </div>
   </div>
