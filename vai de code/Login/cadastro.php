@@ -26,7 +26,7 @@
 <body>
 
 	<div class="limiter">
-		<div class="container-login100">
+		<div class="container-cadastro100">
 			<div class="wrap-login100">
 				<div class="login100-pic js-tilt" data-tilt>
 					<img src="images/img-01.png" alt="IMG">
@@ -73,6 +73,11 @@
 					</div>
 
 
+					<?php if (isset($_GET['login']) &&  $_GET['login'] == 'equal') { ?>
+						<div class="text-danger">
+							E-mail já cadastrado!
+						</div>
+					<?php } ?>
 
 
 
@@ -86,10 +91,10 @@
 
 					<div class="text-center p-t-12">
 						<span class="txt1">
-							Não possui cadastro?
+							Já possui Cadastro?
 						</span>
-						<a class="txt2" href="#">
-							Cadastre-se
+						<a class="txt2" href="login.php">
+							Entrar
 						</a>
 					</div>
 

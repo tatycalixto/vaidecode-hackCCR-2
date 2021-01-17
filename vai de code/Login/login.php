@@ -32,7 +32,7 @@
 					<img src="images/img-01.png" alt="IMG">
 				</div>
 
-				<form class="login100-form validate-form">
+				<form class="login100-form validate-form" action="check_login.php" method="POST">
 					<span class="login100-form-title">
 						Entrar
 					</span>
@@ -54,7 +54,11 @@
 						</span>
 					</div>
 
-
+					<?php if (isset($_GET['login']) &&  $_GET['login'] == 'wrong') { ?>
+						<div class="text-danger">
+							E-mail ou Senha inválidos!
+						</div>
+					<?php } ?>
 
 
 
