@@ -691,6 +691,36 @@ ul.slick-dots {
   width: 100%;
   overflow: hidden;
 }
+.center-image img {
+  height: 100%;
+  width: 100%;
+}
+
+.div-button {
+  position: absolute;
+  top: 400px;
+  left: 170px;
+}
+.div-button2 {
+  position: absolute;
+  top: 400px;
+  left: 360px;
+}
+.div-button3 {
+  position: absolute;
+  top: 400px;
+  left: 550px;
+}
+.div-button4 {
+  position: absolute;
+  top: 400px;
+  left: 750px;
+}
+.div-button5 {
+  position: absolute;
+  top: 400px;
+  left: 950px;
+}
 
 .more-info .more-info-content {
   background-color: #f7f7f7;

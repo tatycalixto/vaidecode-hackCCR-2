@@ -60,6 +60,11 @@
 							E-mail ou Senha inválidos!
 						</div>
 					<?php } ?>
+					<?php if (isset($_GET['login']) &&  $_GET['login'] == 'erro2') { ?>
+						<div class="text-danger">
+							Você precisa se autenticar!
+						</div>
+					<?php } ?>
 
 
 
