@@ -62,6 +62,9 @@
             <li class="nav-item">
               <a class="nav-link" href="contact.php">Fale Conosco</a>
             </li>
+            <li class="nav-item">
+              <a class="btn btn-primary" href="Login/login.php" role="button">Entrar</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -99,7 +102,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="section-heading">
-                <h2>Financial <em>Services</em></h2>
+                <h2>Nossos <em>Cursos</em></h2>
                 <span>Aliquam id urna imperdiet libero mollis hendrerit</span>
               </div>
             </div>
