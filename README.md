@@ -12,7 +12,7 @@
 </ul>
 
 ### Equipe 77: 
-|name|email|Perfil|
+|Nome|E-mail|Perfil|
 | -------- | -------- | -------- |
 |Tatyane Calixto |tatyanecalixto@gmail.com|Programação|
 |Amanda Calixto |amanda.calixto2@gmail.com|UX|
