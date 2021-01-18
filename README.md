@@ -17,4 +17,4 @@
 |Amanda Calixto |amanda.calixto2@gmail.com|UX|
 |Jeane Melo |jeane.ufrpe@gmail.com|Entusiasta de Educação|
 <p> Link da Solução </p>
-<a href="http://tatyanecalixto.com.br/vdecode/vai%20de%20code/index.php"> Vai de Code </a>
+<a href="http://bit.ly/vaidcode"> Vai de Code </a>
