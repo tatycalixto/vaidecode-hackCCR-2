@@ -1394,3 +1394,20 @@ footer .contact-form button.filled-button:hover {
     border-bottom: none !important;
   }
 }
+
+#DivLateral {
+  position: relative;
+  border-width: 2px;
+  width: 100px;
+  height: 100px;
+  top: 100px;
+  float: left;
+}
+#DivA {
+  position: relative;
+  border-width: 2px;
+  width: 100px;
+  height: 100px;
+  top: 100px;
+  float: left;
+}

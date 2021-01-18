@@ -124,7 +124,7 @@
         </div>
         <div class="col-md-12">
           <div class="contact-form">
-            <form id="contact" action="" method="get">
+            <form id="contact" action="contacte-me.php" method="POST">
               <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                   <fieldset>
@@ -146,6 +146,11 @@
                     <textarea name="message" rows="6" class="form-control" id="message" placeholder="Sua Mensagem" required=""></textarea>
                   </fieldset>
                 </div>
+                <?php if (isset($_GET['message']) &&  $_GET['message'] == 'ok') { ?>
+                  <div class="alert alert-success" role="alert">
+                    Mensagem enviada com sucesso!
+                  </div>
+                <?php } ?>
                 <div class="col-lg-12">
                   <fieldset>
                     <button type="submit" id="form-submit" class="filled-button">

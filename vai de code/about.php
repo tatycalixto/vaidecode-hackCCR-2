@@ -104,7 +104,28 @@
                   <img src="assets/images/about-image.jpg" alt="" />
                 </div>
               </div>
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/1.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/2.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/3.jpg" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/4.jpg" alt="" />
+                </div>
+              </div>
             </div>
+
           </div>
         </div>
       </div>
