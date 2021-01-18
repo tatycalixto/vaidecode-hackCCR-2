@@ -7,7 +7,8 @@
 <ul>
   <li>PHP</li>
   <li>MySQL</li>
-  <li>HTML, CSS</li>
+  <li>HTML, CSS, JavaScript</li>
+  
 </ul>
 
 ### Equipe 77: 
