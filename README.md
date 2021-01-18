@@ -1,3 +1,2 @@
 # Vai de Code
-##Projeto Criado durante o Hackathon CCR 2ª Edição
-Repositório do Projeto Vai de Code - Hackathon CCR 2
+<p align="justify"> Projeto Criado durante o Hackathon CCR- 2ª Edição (15-17 de Janeiro de 2020) </p>
