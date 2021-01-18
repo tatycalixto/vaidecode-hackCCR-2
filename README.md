@@ -10,7 +10,7 @@
   <li>HTML, CSS</li>
 </ul>
 
-### Participantes: 
+### Equipe 77: 
 |name|email|Perfil|
 | -------- | -------- | -------- |
 |Tatyane Calixto |tatyanecalixto@gmail.com|Programação|
