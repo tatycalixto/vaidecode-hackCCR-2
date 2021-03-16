@@ -3,7 +3,7 @@
 <p>A plataforma Vai de Code abriga jovens em busca do primeiro emprego, empresas em busca de profissionais na área de TI e instituições de ensino que oferecem cursos nessa área. O objetivo é qualificar e oportunizar jovens da periferia para ingresso no mercado de trabalho, promovendo um impacto social. 
   A plataforma é financiada pelas empresas e instituições que esta abriga. Os jovens alcançados navegam pela plataforma sem custos, recebendo dicas e sugestões para conseguir finalizar sua jornada rumo à qualificação e experiência profissional.
  </p>
-<p>Linguagens utilizadas :books:</p>
+<p>Linguagens utilizadas :computer:</p>
 <ul>
   <li>PHP</li>
   <li>MySQL</li>
